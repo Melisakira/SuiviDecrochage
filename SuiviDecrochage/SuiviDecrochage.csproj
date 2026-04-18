@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="C:\Users\Brand\OneDrive\Bureau\Projet POO\SuiviDecrochage\SuiviDecrochage.cd" Link="SuiviDecrochage.cd" />
+  </ItemGroup>
+
 </Project>
