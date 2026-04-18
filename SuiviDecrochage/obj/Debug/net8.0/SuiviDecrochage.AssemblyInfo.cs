@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuiviDecrochage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47fda1a5dcfbb6b9515813152e6705c962029f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df74e43596e58cb4baf02bea7b7e1a6e7c456460")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuiviDecrochage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuiviDecrochage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
