@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Personne" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAAAAAAAAABCAAAAAAAKIAAARAAAM=</HashCode>
+      <FileName>Personne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intervention" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAEAAAoAAAEBQACAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Intervention.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActeurProfessionnel" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAARAAAAAAAAUACIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActeurProfessionnel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eleve" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAQAAAgAAACAAAAAQAAAAGAQgAAAEAAAAAAQAAA=</HashCode>
+      <FileName>Eleve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parent" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgABIAAEAAAAAAAAAAAAAQIAAAAAACAEAAAAI=</HashCode>
+      <FileName>Parent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enseignant" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAiAAAIAAAAAAAAAAAAAAAIEAAAABBAEAAAAA=</HashCode>
+      <FileName>Enseignant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intervenant" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACAgAAAAAEAAAABAAgAAAAABAAAAAAAEAAAAAg=</HashCode>
+      <FileName>Intervenant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntervenantInterne" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAACAAAAAAEAAAAAAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IntervenantInterne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntervenantExterne" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAAACAAAAAAAAQAAEAAAAAAAAAAAAQAAAAgA=</HashCode>
+      <FileName>IntervenantExterne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntretienIndividuel" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgAAJAAAAAAgAAAAAAAQAAAABAAABAAAAABA=</HashCode>
+      <FileName>EntretienIndividuel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtelierGroupe" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgADAAAAAJAAAQAAAAAAAAAAAAAAABAAAEAAAAAAg=</HashCode>
+      <FileName>AtelierGroupe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignalementExterne" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQwAAAAAAAAAACAIAAABAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>SignalementExterne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanAction" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAABAAEAAAAAAEAAAAAgAAAAAAAAQAAQAADYAAAAAA=</HashCode>
+      <FileName>PlanAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Alerte" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQAAAAAAAAAAAAIAgAQAAAAAAAAAAAQIAAiAAAA=</HashCode>
+      <FileName>Alerte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DossierSuivi" Collapsed="true">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQEAAABEAAAIDAAAAIQAAAAAAQAAAAAEAAwYAAQIAAA=</HashCode>
+      <FileName>DossierSuivi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etablissement" Collapsed="true">
+    <Position X="15.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAAgAAAAAAACBCEAAABAAAAQAAAAAAE=</HashCode>
+      <FileName>Etablissement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TableauDeBord" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgAAAAEAAAAAAQBIAAAAAAFAAAAIAAAAAAYA=</HashCode>
+      <FileName>TableauDeBord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
